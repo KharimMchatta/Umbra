@@ -1,0 +1,56 @@
+Umbra by Kharim Mchatta
+https://github.com/KharimMchatta/Umbra
+
+Copyright (C) 2026 Kharim Mchatta
+
+Umbra is free software: you can redistribute it and/or modify it under the
+terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version, with the additional terms below.
+
+Umbra is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+The full License is in the LICENSE file that comes with Umbra, and at
+https://www.gnu.org/licenses/gpl-3.0.html.
+
+
+ADDITIONAL TERMS UNDER SECTION 7 OF THE GNU GENERAL PUBLIC LICENSE, VERSION 3
+
+These terms are added to the License as section 7 permits. They apply to every
+file of Umbra, including the server rules file htaccess-hardening.conf, and
+they stay with every copy and every modified version.
+
+1. Author attribution (section 7(b))
+
+   Every copy of Umbra, and every work based on it, in whole or in part, must
+   keep intact:
+
+   a) the copyright notice "Copyright (C) 2026 Kharim Mchatta" and the notice
+      at the top of each file;
+
+   b) the author attribution "Umbra by Kharim Mchatta", with the address
+      https://github.com/KharimMchatta/Umbra, in that notice and in the
+      Appropriate Legal Notices displayed by the work. Umbra displays its
+      Appropriate Legal Notices on the Info tab of its WordPress admin page.
+
+   A work based on Umbra that has an interactive user interface must display
+   these notices in its Appropriate Legal Notices, as section 5(d) of the
+   License requires for Umbra's own.
+
+2. Origin (section 7(c))
+
+   You may not misrepresent the origin of Umbra, in whole or in part,
+   including by presenting it, or a work based on it, as your own original
+   work. A modified version must be marked in reasonable ways as different
+   from the original version: its name and its Appropriate Legal Notices
+   must make clear that it is a modified version of Umbra by Kharim Mchatta,
+   and it must carry a prominent notice saying who modified it, and when.
+
+3. Name (section 7(e))
+
+   This License grants no rights under trademark law to use the name "Umbra"
+   as the name of this software or of a modified version, or in a way that
+   suggests that a modified version is the original or is published or
+   endorsed by Kharim Mchatta. Saying that a modified version is based on
+   Umbra by Kharim Mchatta, as terms 1 and 2 require, is always permitted.
